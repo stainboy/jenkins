@@ -1,0 +1,4 @@
+dependencies {
+  implementation 'org.jenkins-ci.main:jenkins-war:2.375.1'
+  implementation 'org.jenkins-ci.main:remoting:4.13.3'
+}
